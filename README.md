@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jvillejoin
 - 👀 I’m interested in video games and music
 - 🌱 I’m currently learning C++, git, and Unity
-- 💞️ I’m looking to collaborate on fantasy style video games 
+- 💞️ I’m looking to learn more web development and searching for work in the Philadelphia area 
 - 📫 How to reach me: you can reach me by emailing jacob.villejoin@gmail.com
 
 <!---
